@@ -6,7 +6,7 @@ https://apod.nasa.gov/apod/astropix.html
 - Allow users to create/manage a list of &quot;favorite&quot; listings
 - Display date, explanation, Title and the image / video of the day
 - Dark mode support
-- App should handle different screen sizes, orientations
+- Handle different screen sizes, orientations
 
 ## Screenshots
 ![](images/Home.png)
