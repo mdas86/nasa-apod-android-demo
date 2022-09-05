@@ -26,6 +26,8 @@ https://apod.nasa.gov/apod/astropix.html
 - Retrofit
 - Dagger
 - ViewModel
+- View Binding
+- Data Binding
 - LiveData
 - Coroutines
 - Room
